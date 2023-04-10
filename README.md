@@ -1,2 +1,2 @@
-# gladeui-3.38.2-windows
-GladeUI 3.38.2 compiled for windows
+# gladeui-3.4.0-windows
+GladeUI 3.4.0 compiled for windows
